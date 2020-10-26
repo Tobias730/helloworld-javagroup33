@@ -6,7 +6,7 @@ package se.lexicon.tobias;
  */
 public class App 
 {
-    public static void main( String[] args ) { System.out.println( "Hello! My Name Is Tobias Lund" );
+    public static void main( String[] args ) { System.out.println( "Hello! My Name Is Tobias" );
 
     }
 }
